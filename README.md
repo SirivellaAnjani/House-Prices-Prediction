@@ -36,3 +36,5 @@ model.evaluate(test_ds)
 model.save("project/model")
 ```
 # Summary
+The following features were highly important in predicting the prices of houses:
+![](img/variable_importances.png)
